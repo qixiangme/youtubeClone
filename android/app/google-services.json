@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "933701059702",
+    "project_id": "yotu-clone",
+    "storage_bucket": "yotu-clone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933701059702:android:f4a84d60d1656572cb4b57",
+        "android_client_info": {
+          "package_name": "com.example.instagram_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933701059702-krmelh60ad53o773avpv3gtlij9n81nb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagram_clone",
+            "certificate_hash": "f7bc2036690be6101c15a7e18a32e0f10243410b"
+          }
+        },
+        {
+          "client_id": "933701059702-geehcdqvtorv9qbcf6mulh3v7fsp7p53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjWOsM_3hqO6C0DVgZd-C1R_1EOVKlzf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933701059702-geehcdqvtorv9qbcf6mulh3v7fsp7p53.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933701059702-e7q060os6494kqjjfd4ojtg3vd7vqc78.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.instagramClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
